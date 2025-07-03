@@ -1,0 +1,3 @@
+# requirements.txt
+# tkinter 为Python标准库，通常无需单独安装
+pyinstaller 
